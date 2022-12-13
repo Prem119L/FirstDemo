@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
